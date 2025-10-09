@@ -1,1 +1,2 @@
 # Image-Slider
+The Image Carousel Slider is a web-based project that displays multiple images in a smooth, automatic, and interactive slideshow. Built using HTML, CSS, and JavaScript, it allows users to view images that change automatically after a few seconds or manually through next and previous buttons. The carousel features infinite looping, thumbnails, and smooth animations, making it visually appealing and user-friendly.
